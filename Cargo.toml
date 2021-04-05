@@ -1,0 +1,10 @@
+[package]
+name = "talent"
+version = "0.1.0"
+authors = ["Denis Kolodin <deniskolodin@gmail.com>"]
+edition = "2018"
+description = "Lightweight layout library for Web, Terminal, Graphics and everything you want"
+license = "MIT"
+readme = "README.md"
+
+[dependencies]

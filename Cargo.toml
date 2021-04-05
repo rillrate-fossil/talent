@@ -6,5 +6,6 @@ edition = "2018"
 description = "Lightweight layout library for Web, Terminal, Graphics and everything you want"
 license = "MIT"
 readme = "README.md"
+repository = "https://github.com/rillrate/talent"
 
 [dependencies]
